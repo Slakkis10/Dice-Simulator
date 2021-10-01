@@ -8,7 +8,7 @@ This script is the dice simulator. The user will "roll" the dice and will be
 asked if they wish to roll again
 """
 
-# initialize
+# Initialize
 error = False
 
 # Import modules
